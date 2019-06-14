@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/Recepts-eco-price-parcer-WEB-Mvn-Hib-JPA.iml" filepath="$PROJECT_DIR$/Recepts-eco-price-parcer-WEB-Mvn-Hib-JPA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/topjava.iml" filepath="$PROJECT_DIR$/topjava.iml" />
     </modules>
   </component>
 </project>
